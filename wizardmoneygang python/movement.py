@@ -17,11 +17,11 @@ import commands
 #Base Walking Speed:            1.3 Blocks
 #Base Sprinting Speed:          5.6 Blocks
 
-#Upgraded Sneaking Speed:       4.429 Blocks
-#Upgraded Walking Speed:        1.339 Blocks
-#Upgraded Sprinting Speed:      5.767 Blocks
+#Upgraded Sneaking Speed:       4.64400 Blocks
+#Upgraded Walking Speed:        1.40400 Blocks
+#Upgraded Sprinting Speed:      6.04800 Blocks
 
-Speed = 4.429
+Speed = 4.644
 Forward_Blocks = 6
 Sideways_Blocks = 160
 
